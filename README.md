@@ -48,7 +48,7 @@ Currently exploring how **Generative AI + Agentic workflows** can solve real-wor
 ---
 
 ## ⚡ Fun fact  
-I believe **you don’t need to be an expert to build something impactful — you just need curiosit
+I believe you don’t need to be an expert to build something impactful — you just need curiosity
 
 
 ## 🌐 Socials:
@@ -67,4 +67,4 @@ I believe **you don’t need to be an expert to build something impactful — yo
 ---
 [![](https://visitcount.itsvg.in/api?id=ShresthSingh01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
